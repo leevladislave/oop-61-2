@@ -22,7 +22,7 @@ phone1 = Phone("Samsung", 256, "0")
 phone2 = Phone("Iphone", 256, "0")
 phone3 = Phone("Xiaomi", 256, "0")
 
-# Проверяем методы
+
 print(phone1.info())
 print(phone1.call())
 print(phone1.charge("100"))
