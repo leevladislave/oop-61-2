@@ -26,4 +26,7 @@ my_list = (1,2,3,45)
 # print(type(kirito))
 # print(type(my_text))
 # print(my_text)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4f1eb02 (12)
