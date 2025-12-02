@@ -1,20 +1,28 @@
 Команды для регистрации ваших данных
 пишутся один на ПК
-git config --global user.name "arzy-54-2"
-git config --global user.email "some_emal@gmail.com"
+git config --global user.name "leevladislave"
+git config --global user.email "lee.vladislav.el@gmail.com"
 ============================================================
 Пишутся один раз на проект
 git init
 git remote add origin https://github.com/arzy-54-2/oop-61-2.git
 ===============================================================
 
-
-
 git status
 нужно создать файл .gitignore
 git add .
+git add путь\ название файла или директории
 git commit -m "same text"
 git push origin master
+
+git rm -r название файла или директории (удаление файла)
+git branch   (посмотреть ветки)
+git branch название ветки (создает ветку)
+git switch название ветки (переключение между ветками)
+git push origin название ветки (сохранение ветки)
+git merge название ветки (слияние веток)
+
+
 
 
 
