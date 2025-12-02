@@ -32,4 +32,8 @@ print("\n"+phone2.info())
 print(phone2.call())
 print(phone2.charge(100))
 
+<<<<<<< HEAD
 print("\n"+phone3.info())
+=======
+print("\n"+phone3.info())
+>>>>>>> 4f1eb02 (12)
